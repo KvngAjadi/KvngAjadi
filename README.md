@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KvngAjadi
+- 👋 Hi, I’m Ajadi Sodiq Olasunkanmi
 - 👀 I’m interested in learning more about Front-end and to become a professional web developer
 - 🌱 I’m currently learning Python (HTML, CSS, and Javascript).
 - 💞️ I’m looking forward to collaborate on learning more about this tech space.
